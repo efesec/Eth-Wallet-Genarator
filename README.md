@@ -15,4 +15,4 @@ Generate Ethereum Mainnet and ERC-20 compatible wallets with ease.
 | **Output File** | `ethwallet.txt` |
 
 ## ⚖️ Legal Disclaimer
-Usage of this script is at your own risk. It is highly recommended to use hardware wallets for storing significant amounts of cryptocurrency. The developer is not liable for any damages resulting from the use of this software.
+This software is provided for educational and testing purposes only. The developer assumes no responsibility for any financial loss, data theft, or loss of access to generated wallets. The user carries 100% of the legal and financial risk associated with the use of this script.
